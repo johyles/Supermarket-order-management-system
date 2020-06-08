@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="smbms_ssm_gongye:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/smbms_ssm_gongye_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="smbms_ssm_gongye/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="smbms_ssm_gongye" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
